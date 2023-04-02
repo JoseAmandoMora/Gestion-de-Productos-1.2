@@ -1,0 +1,36 @@
+00001
+procesador
+31$
+00002
+teclado
+13$
+00003
+mouse
+8$
+00004
+disco duro
+30$
+00005
+tarjeta madre
+90$
+00006
+equipo de sonido
+20$
+00007
+telefono
+120$
+00008
+usb
+9$
+00009
+impresora
+100$
+00010
+VisualStudio
+4$
+00011
+word
+5$
+00012
+exel
+3$
